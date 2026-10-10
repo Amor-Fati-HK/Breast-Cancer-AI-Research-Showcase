@@ -1,6 +1,7 @@
 # Multimodal Breast Cancer Detection (AI Research)
 
-**CLASSIFIED RESEARCH REPOSITORY** 
+**CLASSIFIED RESEARCH REPOSITORY**
+
 The source code for this project is currently strictly **PRIVATE** and closed-source, as the methodology and findings are pending publication in an international IEEE/Springer scientific conference. Access to the codebase may be granted to academic committees or recruiters upon legitimate request.
 
 ### Project Overview
